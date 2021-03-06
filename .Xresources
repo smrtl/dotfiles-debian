@@ -1,0 +1,47 @@
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! st
+!
+! color0:   ansiBlack
+! color1:   ansiRed
+! color2:   ansiGreen
+! color3:   ansiYellow
+! color4:   ansiBlue
+! color5:   ansiMagenta
+! color6:   ansiCyan
+! color7:   ansiWhite
+! color8:   ansiBrightBlack
+! color9:   ansiBrightRed
+! color10:  ansiBrightGreen
+! color11:  ansiBrightYellow
+! color12:  ansiBrightBlue
+! color13:  ansiBrightMagenta
+! color14:  ansiBrightCyan
+! color15:  ansiBrightWhite
+
+st.font:                FiraCode Nerd Font:pixelsize=14:antialias=true:hintstyle=3
+st.borderpx:	          8
+st.color0:              #000000
+st.color1:              #cd3131
+st.color2:              #0DBC79
+st.color3:              #e5e510
+st.color4:              #2472c8
+st.color5:              #bc3fbc
+st.color6:              #11a8cd
+st.color7:              #e5e5e5
+st.color8:              #666666
+st.color9:              #f14c4c
+st.color10:             #23d18b
+st.color11:             #f5f543
+st.color12:             #3b8eea
+st.color13:             #d670d6
+st.color14:             #29b8db
+st.color15:             #e5e5e5
+st.foreground:          #e5e5e5
+st.background:          #111216
+st.backgroundUnfocused: #111216
+st.cursorColor:         #c0c0c0
+st.rcursorColor:        #c0c0c0
+; st.alphaUnfocused:      1
+; st.alpha:               1
