@@ -1,0 +1,6 @@
+[user]
+	email = smurtlesam@gmail.com
+	name = Samuel Suter
+[core]
+	editor = vim
+	pager = less -F -X
